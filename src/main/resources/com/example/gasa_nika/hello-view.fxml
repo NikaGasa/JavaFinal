@@ -17,4 +17,6 @@
     <TextField fx:id="textField4" promptText="Enter value 4"/>
 
     <Button text="Hello!" onAction="#addButtonClick"/>
+
+      <PieChart fx:id="pieChart"/>
 </VBox>
