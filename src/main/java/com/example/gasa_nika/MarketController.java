@@ -11,9 +11,7 @@ import java.sql.*;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class HelloController {
-    @FXML
-    private Label welcomeText;
+public class MarketController {
 
     @FXML
     private TextField textField1;
