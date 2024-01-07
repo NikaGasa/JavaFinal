@@ -25,6 +25,9 @@ public class MarketController {
     @FXML
     private TextField textField4;
 
+    @FXML
+    private PieChart pieChart;
+
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/products";
     private static final String USER = "your_username";
     private static final String PASSWORD = "your_password";
